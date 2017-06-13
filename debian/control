@@ -1,0 +1,12 @@
+Source: ros-indigo-rosparam-handler
+Section: misc
+Priority: extra
+Maintainer: Claudio Bandera <cbandera@posteo.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rosparam-handler
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-catkin
+Description: An easy wrapper for using parameters in ROS.
