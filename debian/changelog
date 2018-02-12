@@ -1,8 +1,0 @@
-ros-jade-rosparam-handler (0.1.1-0trusty) trusty; urgency=high
-
-  * Initial release of rosparam_handler
-  * Contributors: Claudio Bandera, Fabian Poggenhans, Jeremie Deray, Matthias Füller, Nikolaus Demmel, Sascha Wirges, artivis
-
- -- Claudio Bandera <cbandera@posteo.de>  Tue, 30 May 2017 22:00:00 -0000
-
-
