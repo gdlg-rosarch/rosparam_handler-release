@@ -1,3 +1,26 @@
+## rosparam_handler (kinetic) - 0.1.2-0
+
+The packages in the `rosparam_handler` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release rosparam_handler --track kinetic --rosdistro kinetic` on `Mon, 12 Feb 2018 15:01:46 -0000`
+
+The `rosparam_handler` package was released.
+
+Version of package(s) in repository `rosparam_handler`:
+
+- upstream repository: https://github.com/cbandera/rosparam_handler.git
+- release repository: https://github.com/cbandera/rosparam_handler-release.git
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.1-0`
+- new version: `0.1.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## rosparam_handler (indigo) - 0.1.2-0
 
 The packages in the `rosparam_handler` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rosparam_handler --track indigo --rosdistro indigo` on `Mon, 12 Feb 2018 14:56:32 -0000`
