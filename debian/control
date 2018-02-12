@@ -1,0 +1,12 @@
+Source: ros-jade-rosparam-handler
+Section: misc
+Priority: extra
+Maintainer: Jeremie Deray <jeremie.deray@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), python, ros-jade-catkin, ros-jade-dynamic-reconfigure, ros-jade-roscpp, ros-jade-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-rosparam-handler
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}, ros-jade-catkin
+Description: An easy wrapper for using parameters in ROS.
