@@ -1,0 +1,12 @@
+Source: ros-lunar-rosparam-handler
+Section: misc
+Priority: extra
+Maintainer: Jeremie Deray <jeremie.deray@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-dynamic-reconfigure, ros-lunar-roscpp, ros-lunar-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-rosparam-handler
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-catkin
+Description: An easy wrapper for using parameters in ROS.
