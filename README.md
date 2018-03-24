@@ -1,3 +1,26 @@
+## rosparam_handler (lunar) - 0.1.3-0
+
+The packages in the `rosparam_handler` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar rosparam_handler --edit` on `Sat, 24 Mar 2018 12:17:31 -0000`
+
+The `rosparam_handler` package was released.
+
+Version of package(s) in repository `rosparam_handler`:
+
+- upstream repository: https://github.com/cbandera/rosparam_handler.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## rosparam_handler (kinetic) - 0.1.3-0
 
 The packages in the `rosparam_handler` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release rosparam_handler --track kinetic --rosdistro kinetic` on `Sat, 24 Mar 2018 11:41:53 -0000`
